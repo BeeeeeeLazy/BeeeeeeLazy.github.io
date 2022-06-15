@@ -1,5 +1,15 @@
 ---
-title: test_my_site
+title: tes_site
 date: 2022-06-15 13:54:49
-tags:
+tags: 测试
 ---
+# 测试代码块功能
+
+```c
+#include "stdio.h"
+int main(void)
+{
+    return 0;
+}
+```
+

@@ -3,6 +3,7 @@ title: rt_thread学习记录(一) 驱动和软件包
 date: 2022-06-16 08:20:06
 tags: "rt-thread"
 categories: "rt-thread学习记录"
+cover: https://github.com/BeeeeeeLazy/BeeeeeeLazy.github.io/blob/main/img/rt-thread.png
 ---
 
 > 本文所述内容，基于STM32HAL库+MDK5+ENV环境搭建，开发平台为Win10和Win11。限于笔者能力，肯定会有疏漏乃至错谬之处，各位看官不吝指正。

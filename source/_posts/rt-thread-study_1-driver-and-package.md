@@ -1,7 +1,7 @@
 ---
 title: rt_thread学习记录(一) 驱动和软件包
 date: 2022-06-16 08:20:06
-tags: “rt-thread”,"stm32"
+tags: "rt-thread"
 categories: "rt-thread学习记录"
 ---
 
